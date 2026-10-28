@@ -36,3 +36,15 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java build output
+out/
+target/
+
+# macOS
+.DS_Store
