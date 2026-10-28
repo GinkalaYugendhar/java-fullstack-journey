@@ -1,6 +1,4 @@
-# Java Full Stack Journey
-
-## Day 1 Notes: Setup, OOP Revision, First Push
+# Day 1 Notes: Setup, OOP Revision, First Push
 
 ## The four OOP pillars (in my own words)
 
